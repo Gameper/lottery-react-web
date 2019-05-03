@@ -12,7 +12,7 @@ Lottery react web for tutorial.
 * ganache-cli with smart contract
 * You should set your own smart contract address
 
-## Deploy
+## Setup
 ```
 $ yarn
 $ yarn start
